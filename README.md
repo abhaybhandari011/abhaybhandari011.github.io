@@ -8,7 +8,7 @@ Building production-grade AI systems using Agentic AI, RAG, Multi-Agent Architec
 
 ## About Me
 
-Generative AI Engineer with 4.5+ years of experience designing and delivering scalable AI applications and backend systems.
+Generative AI Engineer with 3+ years of experience designing and delivering scalable AI applications and backend systems.
 
 I specialize in:
 
@@ -226,7 +226,7 @@ Working on:
 
 ### Python Developer
 
-Jan 2022 - Dec 2025
+Sep 2023 - Nov 2025
 
 Worked on:
 
@@ -253,7 +253,8 @@ Currently exploring:
 
 ### GitHub
 
-https://github.com/abhayoffice
+https://github.com/abhayoffice , 
+https://github.com/abhaybhandari011
 
 ### LinkedIn
 
